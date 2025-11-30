@@ -1,0 +1,19 @@
+{
+  "name": "io.github.ykysnk.world-bundle",
+  "displayName": "World Bundle",
+  "version": "0.0.1",
+  "description": "A bundle of random stuffs for worlds.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.10.0",
+    "io.github.ykysnk.world-basic": ">=0.4.0"
+  },
+  "author": {
+    "name": "yukiyosanako / \u3086\u304d\u3088\u3055\u306a\u3053",
+    "email": "github.qszdy@aleeas.com",
+    "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "L:\\VRChatProjects\\VPM.WorldBundle\\Packages\\io.github.ykysnk.world-bundle"
+}

@@ -1,1 +1,89 @@
-{"dependencies": {}, "locked": {}}
+{
+  "dependencies": {
+    "dev.sakurayuki.uniasset": {
+      "version": "1.0.6"
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "1.11.0"
+    },
+    "blueamulet.udonsharpoptimizer": {
+      "version": "1.0.12"
+    },
+    "io.github.ykysnk.world-basic": {
+      "version": "0.4.0"
+    },
+    "net.nekobako.editor-patcher": {
+      "version": "1.0.0"
+    }
+  },
+  "locked": {
+    "io.github.ykysnk.log-manager": {
+      "version": "0.1.7",
+      "dependencies": {
+        "com.vrchat.worlds": ">=3.9.0",
+        "io.github.ykysnk.cheat-client-protector": ">=0.2.0",
+        "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.2"
+      }
+    },
+    "dev.sakurayuki.uniasset": {
+      "version": "1.0.6",
+      "dependencies": {}
+    },
+    "io.github.ykysnk.utils.world": {
+      "version": "0.0.5",
+      "dependencies": {
+        "com.vrchat.worlds": ">=3.9.0",
+        "io.github.ykysnk.utils": ">=0.5.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.10.0",
+      "dependencies": {}
+    },
+    "io.github.ykysnk.cheat-client-protector": {
+      "version": "0.2.1",
+      "dependencies": {
+        "com.vrchat.worlds": ">=3.9.0",
+        "io.github.ykysnk.utils.world": ">=0.0.4"
+      }
+    },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "1.11.0",
+      "dependencies": {}
+    },
+    "blueamulet.udonsharpoptimizer": {
+      "version": "1.0.12",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.4.2"
+      }
+    },
+    "io.github.ykysnk.utils": {
+      "version": "0.6.0",
+      "dependencies": {
+        "com.vrchat.base": ">=3.9.0"
+      }
+    },
+    "io.github.ykysnk.world-basic": {
+      "version": "0.5.0",
+      "dependencies": {
+        "com.vrchat.worlds": ">=3.10.0",
+        "io.github.ykysnk.cheat-client-protector": ">=0.2.0",
+        "io.github.ykysnk.log-manager": ">=0.1.4"
+      }
+    },
+    "net.nekobako.editor-patcher": {
+      "version": "1.0.0",
+      "dependencies": {}
+    },
+    "net.narazaka.vrchat.tmp-fallback-fonts-jp": {
+      "version": "1.0.2",
+      "dependencies": {}
+    },
+    "com.vrchat.worlds": {
+      "version": "3.10.0",
+      "dependencies": {
+        "com.vrchat.base": "3.10.0"
+      }
+    }
+  }
+}

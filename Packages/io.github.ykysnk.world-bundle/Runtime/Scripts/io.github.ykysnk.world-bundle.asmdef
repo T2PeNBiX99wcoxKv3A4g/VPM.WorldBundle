@@ -1,0 +1,23 @@
+{
+  "name": "io.github.ykysnk.world-bundle",
+  "rootNamespace": "io.github.ykysnk.WorldBundle",
+  "references": [
+    "VRC.SDK3",
+    "VRC.SDKBase",
+    "Unity.Postprocessing.Runtime",
+    "Unity.TextMeshPro",
+    "UdonSharp.Runtime",
+    "io.github.ykysnk.utils",
+    "io.github.ykysnk.cheat-client-protector",
+    "io.github.ykysnk.world-basic.udon"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
