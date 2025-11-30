@@ -25,6 +25,9 @@ namespace io.github.ykysnk.WorldBundle
         [SerializeField] private Slider intensitySlider;
         [SerializeField] [Range(0f, 1f)] private float intensity = 1f;
 
+        [SerializeField] private PostProcessVolume postProcessVolumeOfMSVO;
+        [SerializeField] private PostProcessVolume postProcessVolumeOfSAO;
+
         private void Start() => Switch(false);
 
         private void Switch(bool isChanged)
@@ -100,12 +103,6 @@ namespace io.github.ykysnk.WorldBundle
             PlayerData.SetInt(SaveMode(), (int)mode);
             PlayerData.SetFloat(SaveKey(IntensityKey), intensity);
         }
-
-        // ReSharper disable InconsistentNaming
-        [SerializeField] private PostProcessVolume postProcessVolumeOfMSVO;
-
-        [SerializeField] private PostProcessVolume postProcessVolumeOfSAO;
-        // ReSharper restore InconsistentNaming
     }
 
     public enum AOMode
