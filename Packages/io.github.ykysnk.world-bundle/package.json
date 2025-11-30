@@ -6,7 +6,7 @@
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.10.0",
-    "io.github.ykysnk.world-basic": ">=0.4.0"
+    "io.github.ykysnk.world-basic": ">=0.5.0"
   },
   "author": {
     "name": "yukiyosanako / \u3086\u304d\u3088\u3055\u306a\u3053",
