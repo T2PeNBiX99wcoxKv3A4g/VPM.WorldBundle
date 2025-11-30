@@ -6,8 +6,6 @@ using UnityEngine;
 using VRC.SDK3.Data;
 using VRC.SDKBase;
 
-// ReSharper disable ArrangeObjectCreationWhenTypeEvident UseIndexFromEndExpression
-
 namespace io.github.ykysnk.WorldBundle
 {
     [AddComponentMenu("yky/World Bundle/Speed Changer")]
