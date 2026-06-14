@@ -1,8 +1,5 @@
 {
   "dependencies": {
-    "dev.sakurayuki.uniasset": {
-      "version": "1.0.6"
-    },
     "jp.lilxyzw.editortoolbox": {
       "version": "1.11.0"
     },
@@ -14,37 +11,32 @@
     },
     "net.nekobako.editor-patcher": {
       "version": "1.0.0"
+    },
+    "com.yank.material-editor": {
+      "version": "1.0.0"
+    },
+    "io.github.ykysnk.yky-toolkit": {
+      "version": "0.18.2"
     }
   },
   "locked": {
     "io.github.ykysnk.log-manager": {
-      "version": "0.1.7",
+      "version": "0.2.0",
       "dependencies": {
         "com.vrchat.worlds": ">=3.9.0",
         "io.github.ykysnk.cheat-client-protector": ">=0.2.0",
         "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.2"
       }
     },
-    "dev.sakurayuki.uniasset": {
-      "version": "1.0.6",
-      "dependencies": {}
-    },
-    "io.github.ykysnk.utils.world": {
-      "version": "0.0.5",
-      "dependencies": {
-        "com.vrchat.worlds": ">=3.9.0",
-        "io.github.ykysnk.utils": ">=0.5.0"
-      }
-    },
     "com.vrchat.base": {
-      "version": "3.10.0",
+      "version": "3.10.3",
       "dependencies": {}
     },
     "io.github.ykysnk.cheat-client-protector": {
-      "version": "0.2.1",
+      "version": "0.2.3",
       "dependencies": {
         "com.vrchat.worlds": ">=3.9.0",
-        "io.github.ykysnk.utils.world": ">=0.0.4"
+        "io.github.ykysnk.utils": ">=0.44.5"
       }
     },
     "jp.lilxyzw.editortoolbox": {
@@ -58,21 +50,19 @@
       }
     },
     "io.github.ykysnk.utils": {
-      "version": "0.6.0",
-      "dependencies": {
-        "com.vrchat.base": ">=3.9.0"
-      }
+      "version": "0.45.0",
+      "dependencies": {}
     },
     "io.github.ykysnk.world-basic": {
-      "version": "0.5.0",
+      "version": "0.7.0",
       "dependencies": {
         "com.vrchat.worlds": ">=3.10.0",
-        "io.github.ykysnk.cheat-client-protector": ">=0.2.0",
-        "io.github.ykysnk.log-manager": ">=0.1.4"
+        "io.github.ykysnk.cheat-client-protector": ">=0.2.3",
+        "io.github.ykysnk.log-manager": ">=0.2.0"
       }
     },
     "net.nekobako.editor-patcher": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "dependencies": {}
     },
     "net.narazaka.vrchat.tmp-fallback-fonts-jp": {
@@ -80,9 +70,26 @@
       "dependencies": {}
     },
     "com.vrchat.worlds": {
-      "version": "3.10.0",
+      "version": "3.10.3",
       "dependencies": {
-        "com.vrchat.base": "3.10.0"
+        "com.vrchat.base": "3.10.3"
+      }
+    },
+    "com.yank.material-editor": {
+      "version": "1.0.0",
+      "dependencies": {}
+    },
+    "io.github.ykysnk.yky-toolkit": {
+      "version": "0.18.2",
+      "dependencies": {
+        "io.github.ykysnk.localization": ">=0.9.0",
+        "io.github.ykysnk.utils": ">=0.41.0"
+      }
+    },
+    "io.github.ykysnk.localization": {
+      "version": "0.9.3",
+      "dependencies": {
+        "io.github.ykysnk.utils": ">=0.33.2"
       }
     }
   }
