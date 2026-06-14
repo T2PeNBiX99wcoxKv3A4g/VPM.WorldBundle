@@ -1,7 +1,8 @@
 {
   "name": "io.github.ykysnk.world-bundle",
   "displayName": "World Bundle",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "unity": "2022.3",
   "description": "A bundle of random stuffs for worlds.",
   "gitDependencies": {},
   "vpmDependencies": {
@@ -15,5 +16,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "localPath": "L:\\VRChatProjects\\VPM.WorldBundle\\Packages\\io.github.ykysnk.world-bundle"
+  "changelogUrl": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/blob/main/CHANGELOG.md",
+  "license": "MIT"
 }
