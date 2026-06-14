@@ -1,3 +1,1 @@
-# World Bundle
-
-A bundle of random stuffs for worlds.
+Packages/io.github.ykysnk.world-bundle/README.md
