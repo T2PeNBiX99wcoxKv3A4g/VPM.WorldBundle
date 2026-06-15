@@ -50,14 +50,15 @@
       }
     },
     "io.github.ykysnk.utils": {
-      "version": "0.45.0",
+      "version": "0.45.2",
       "dependencies": {}
     },
     "io.github.ykysnk.world-basic": {
-      "version": "0.7.0",
+      "version": "0.7.1",
       "dependencies": {
         "com.vrchat.worlds": ">=3.10.0",
         "io.github.ykysnk.cheat-client-protector": ">=0.2.3",
+        "io.github.ykysnk.localization": ">=0.9.3",
         "io.github.ykysnk.log-manager": ">=0.2.0"
       }
     },
