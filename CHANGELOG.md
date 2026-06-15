@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.1.2](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/compare/0.1.1..0.1.2) - 2026-06-15
+
+### 🚜 Refactor
+
+- Remove unused MonoBehaviour component from PosSaver prefab - ([d1a2b17](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/d1a2b1734deeecc36eb34b895866f9fcc9f480d9))
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump package version to 0.1.2 - ([f0deffe](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/f0deffee8a73f8ad7ed76c01031ab44cb1ed93eb))
+
+### Action
+
+- Update `CHANGELOG.md` - ([9b8cd50](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/9b8cd500448e7b65ff2550fe56e2cfb07360d561))
+
+
 ## [0.1.1](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/compare/0.1.0..0.1.1) - 2026-06-15
 
 ### 🚜 Refactor
