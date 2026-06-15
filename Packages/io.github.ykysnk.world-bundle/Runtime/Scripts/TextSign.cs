@@ -74,9 +74,6 @@ namespace io.github.ykysnk.WorldBundle
             Save();
         }
 
-        public override void OnPlayerRestored(VRCPlayerApi player) => Load(player);
-        public override void OnPlayerLeft(VRCPlayerApi player) => Save(player);
-
         public override void InputLookHorizontal(float value, UdonInputEventArgs args)
         {
             if (Utilities.IsValid(pickup) && !pickup.IsHeld) return;

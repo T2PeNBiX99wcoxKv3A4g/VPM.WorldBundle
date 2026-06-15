@@ -73,9 +73,6 @@ namespace io.github.ykysnk.WorldBundle
             Save();
         }
 
-        public override void OnPlayerRestored(VRCPlayerApi player) => Load(player);
-        public override void OnPlayerLeft(VRCPlayerApi player) => Save(player);
-
         protected override void Load(VRCPlayerApi player)
         {
             if (!Utilities.IsValid(player) || !player.isLocal) return;

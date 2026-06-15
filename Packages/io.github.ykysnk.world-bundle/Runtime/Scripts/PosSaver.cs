@@ -14,8 +14,6 @@ namespace io.github.ykysnk.WorldBundle
         private const string NowPos = "now_pos";
         private const string NowRot = "now_rot";
 
-        public override void OnPlayerRestored(VRCPlayerApi player) => Load(player);
-
         protected override void Save(VRCPlayerApi player)
         {
             if (!Utilities.IsValid(player) || !player.isLocal) return;
@@ -37,6 +35,5 @@ namespace io.github.ykysnk.WorldBundle
         public override void InputLookVertical(float value, UdonInputEventArgs args) => Save();
         public override void InputMoveHorizontal(float value, UdonInputEventArgs args) => Save();
         public override void InputMoveVertical(float value, UdonInputEventArgs args) => Save();
-        public override void OnPlayerLeft(VRCPlayerApi player) => Save(player);
     }
 }
