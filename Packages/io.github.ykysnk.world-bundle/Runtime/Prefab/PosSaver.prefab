@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8724710288490104037}
-  - component: {fileID: 7592700526238176509}
   - component: {fileID: 4771871788103740821}
   - component: {fileID: 5144500040010233194}
   m_Layer: 0
@@ -34,20 +33,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7592700526238176509
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7779257789255858175}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 74db07bba473436c8704b90ccb2df424, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id:
-    value: 231b625f-427e-48b7-8e9d-8a4c83b7bfd1
 --- !u!114 &4771871788103740821
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70,7 +55,7 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 5144500040010233194}
-  id: 231b625f-427e-48b7-8e9d-8a4c83b7bfd1
+  id: 
   playerGuid: {fileID: 0}
   logManager: {fileID: 0}
   logName: PosSaver
