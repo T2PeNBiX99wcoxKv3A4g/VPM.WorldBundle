@@ -1,7 +1,7 @@
 {
   "name": "io.github.ykysnk.world-bundle",
   "displayName": "World Bundle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2022.3",
   "description": "A bundle of random stuffs for worlds.",
   "gitDependencies": {},
