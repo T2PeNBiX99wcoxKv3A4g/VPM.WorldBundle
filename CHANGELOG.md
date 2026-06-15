@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.1](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/compare/0.1.0..0.1.1) - 2026-06-15
+
+### 🚜 Refactor
+
+- Remove unused `OnPlayerRestored` and `OnPlayerLeft` method overrides across scripts - ([157c2b1](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/157c2b1d2fb9df930250ec1894f40020057d7b94))
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump package version to 0.1.1 - ([e97fac3](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/e97fac32b03186f5b7d166cc9f2cf8c8c1520ca7))
+- Bump `io.github.ykysnk.world-basic` dependency to 0.8.0 - ([23cb910](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/23cb9106fb88c0f7f8d7a63db7a472f65b62d36a))
+- Bump Unity package dependencies (AI Navigation, Rider, Visual Studio, Test Framework, TextMeshPro, Timeline) - ([51e46be](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/51e46beac32ad2af88fd6f53a2b9800dad27330f))
+- Bump dependencies (`io.github.ykysnk.utils` to 0.45.2, `io.github.ykysnk.world-basic` to 0.7.1) and add `io.github.ykysnk.localization` - ([403bfe7](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/403bfe70342b90ea2c72985de24730b7b8662817))
+
+### Action
+
+- Update `CHANGELOG.md` - ([802bf25](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/commit/802bf25fa1b77f0d18bc88064f758bda45505647))
+
+## New Contributors ❤️
+
+* @github-actions[bot] made their first contribution
+
 ## [0.1.0](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.WorldBundle/compare/0.0.1..0.1.0) - 2026-06-14
 
 ### 🚜 Refactor
